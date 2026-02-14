@@ -1,0 +1,13 @@
+# Abaikan folder cache Python
+__pycache__/
+*.pyc
+
+# Abaikan folder environment (kalau pakai venv)
+env/
+venv/
+.env
+
+# Abaikan file sistem OS
+.DS_Store
+Thumbs.db
+
